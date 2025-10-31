@@ -2,6 +2,10 @@
 
 This is the React implementation of the Ticket App.
 
+## Live Demo
+
+[**View the live project here**](https://react-ticket-app-db6o-1jcs7fr00-ndefocjs-projects.vercel.app/)
+
 ## Tech Stack
 
 * **Framework:** React 18
